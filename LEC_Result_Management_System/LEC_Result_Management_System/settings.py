@@ -27,7 +27,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'LEC_RMSapp',
-    'active_link',
+    # 'active_link',
 ]
 
 MIDDLEWARE = [
